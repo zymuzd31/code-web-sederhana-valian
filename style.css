@@ -1,0 +1,70 @@
+    body{
+        background-color: rgb(165, 165, 165);
+    }
+    img{
+        height: 130px;
+        width: 190px;
+        align-items: center;
+        padding: 10px 210px 1px;
+        
+    }
+    h1{
+        color: rgb(63, 108, 110);
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    h4{
+        text-align: center;
+        margin: -15px;
+    }
+    h5{
+        text-align: center;
+        margin-top: -30px;
+        font-family: cursive;
+        color: rgb(189, 108, 2);
+    }
+    h5 a{
+        color: rgb(189, 108, 2);
+    }
+    p{
+        padding: 0;
+        margin: 0;
+        text-align: center;
+        margin-top: 30px;
+        font-size: 1em;
+    }
+    .box{
+        width: 300px;
+        padding: 40px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+    }
+    .saya{
+        padding-right: 5px;
+        text-align: center;
+        justify-content: space-between;
+    }
+    button{
+        border-radius: 8%;
+        box-shadow: 0 15px 25px;
+        border: none;
+        justify-content: space-between;
+        background-color: transparent;
+        font-size: 14px;
+        font-weight: 500;
+        margin-top: 20px;
+    }
+    button a{
+        color: white;
+    }
+    a{
+        text-decoration: none;
+        color: red;
+    }
+    u{
+        color: white;
+    }
+    
